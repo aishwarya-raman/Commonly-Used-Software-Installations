@@ -5,3 +5,6 @@
 
 # Postman installtion in linux
   https://learning.postman.com/docs/postman/launching-postman/installation-and-updates/#installing-postman-on-linux
+  
+  # Install VirtualBox
+  https://computingforgeeks.com/how-to-install-latest-virtualbox-on-ubuntu-debian/
